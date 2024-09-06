@@ -23,6 +23,6 @@ public class T01 {
         minimumMargin = Double.parseDouble(input.nextLine());
         stok = Integer.parseInt(input.nextLine());
         rating = Double.parseDouble(input.nextLine());
-        System.out.println(iSBN + "|" + judulBuku + "|" + penulis + "|" + tahunTerbit + "|" + penerbit + "|" + formatBukuElektranik + "|" + hargaPembelian + minimumMargin + "|" + stok + "|" + rating + "|");
+        System.out.println(iSBN + "|" + judulBuku + "|" + penulis + "|" + tahunTerbit + "|" + penerbit + "|" + formatBukuElektranik + "|" + hargaPembelian + "|" + minimumMargin + "|" + stok + "|" + rating);
     }
 }

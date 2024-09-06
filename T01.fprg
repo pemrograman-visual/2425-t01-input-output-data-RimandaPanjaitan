@@ -4,9 +4,9 @@
         <attribute name="name" value="T01-2"/>
         <attribute name="authors" value="ASUS"/>
         <attribute name="about" value=""/>
-        <attribute name="saved" value="2024-09-06 11:18:38 AM"/>
+        <attribute name="saved" value="2024-09-06 11:27:39 AM"/>
         <attribute name="created" value="QVNVUztSSU1BTkRBLVBBTkpBSVQ7MjAyNC0wOS0wNjsxMDozNToxNSBBTTsyNjU1"/>
-        <attribute name="edited" value="QVNVUztSSU1BTkRBLVBBTkpBSVQ7MjAyNC0wOS0wNjsxMToxODozOCBBTTsyOzI3NzE="/>
+        <attribute name="edited" value="QVNVUztSSU1BTkRBLVBBTkpBSVQ7MjAyNC0wOS0wNjsxMToyNzozOSBBTTszOzI3NzM="/>
     </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
@@ -24,7 +24,7 @@
             <input variable="MinimumMargin"/>
             <input variable="Stok"/>
             <input variable="Rating"/>
-            <output expression="ISBN &amp;&quot;|&quot; &amp;JudulBuku &amp;&quot;|&quot; &amp;Penulis &amp;&quot;|&quot; &amp;TahunTerbit &amp;&quot;|&quot; &amp;Penerbit &amp;&quot;|&quot; &amp;FormatBukuElektranik &amp;&quot;|&quot; &amp;HargaPembelian &amp;MinimumMargin &amp;&quot;|&quot; &amp;Stok &amp;&quot;|&quot; &amp;Rating &amp;&quot;|&quot;" newline="True"/>
+            <output expression="ISBN &amp;&quot;|&quot; &amp;JudulBuku &amp;&quot;|&quot; &amp;Penulis &amp;&quot;|&quot; &amp;TahunTerbit &amp;&quot;|&quot; &amp;Penerbit &amp;&quot;|&quot; &amp;FormatBukuElektranik &amp;&quot;|&quot; &amp;HargaPembelian&amp;&quot;|&quot;&amp;MinimumMargin &amp;&quot;|&quot; &amp;Stok &amp;&quot;|&quot; &amp;Rating" newline="True"/>
         </body>
     </function>
 </flowgorithm>
